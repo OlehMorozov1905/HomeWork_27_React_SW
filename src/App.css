@@ -1,0 +1,118 @@
+/* Header */
+
+.btn-danger {
+  color: goldenrod;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: rgba(204, 3, 35, 0.5);
+}
+
+header {
+   background-color: rgba(60, 69, 67, 0.6);
+   border-radius: 15px 15px 0 0;
+}
+
+
+/* nav > ul {
+  list-style: none;
+  padding: 0;
+  position: fixed;
+  top: 5px;
+  left: 40px;
+}
+
+nav li {
+  display: inline;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: rgba(204, 3, 35, 0.5);
+  cursor: pointer;
+}
+*/
+
+h1 {
+  font-size: 3em;
+  /* padding: 0.5em 0; */
+} 
+
+/* Main */
+
+.border.float-end {
+  border-color: goldenrod !important;
+  border-radius: 0 0 15px 15px;
+}
+
+/* .left {
+  float: left;
+  width: 25%;
+  margin: 5px 10px 0 5px;
+}
+
+.right {
+  float: right;
+  width: 50%;
+  margin: 5px 5px 0;
+  border: 1px solid goldenrod;
+  border-radius: 0 0 15px 15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+} */
+
+.farGalaxy {
+  font-size: 2em;
+  letter-spacing: 0.2em;
+  line-height: 1.4;
+  text-align: justify;
+}
+
+/* .right h2 {
+  flex-basis: 100%;
+  text-align: center;
+} */
+
+.float-start img {
+  box-shadow: rgba(60, 69, 67, 0.6) 10px 10px;
+}
+
+.bottomLeft {
+  border-bottom-left-radius: 15px;
+}
+
+.bottomRight {
+  border-bottom-right-radius: 15px;
+}
+
+/* Footer */
+
+footer {
+  border-radius: 0 0 15px 15px;
+  height: 6em;
+  background-color: rgba(60, 69, 67, 0.6);
+}
+
+/* .button {
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: rgba(204, 3, 35, 0.5);
+  cursor: pointer;
+  width: 11em;
+  height: 2em;
+  position: relative;
+  left: 22em;
+  top: 2em;
+  
+} */
+
+footer p {
+  font-size: 0.8em;
+}
+
+.button > p {
+  font-size: 0.8em;
+}
+
+.email {
+  font-size: 1.5em;
+  color: black;
+}
